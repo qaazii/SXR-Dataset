@@ -21,3 +21,4 @@ NTUST.CHGH
         --> Negative  
         --> Unknown  
         <pre>
+ ![Original positive image](https://github.com/qazi876/SXR-Dataset/blob/master/1.bmp)
