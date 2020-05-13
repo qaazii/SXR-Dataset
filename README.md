@@ -7,6 +7,13 @@ The google drive link to the dataset is provided below.
 
 https://drive.google.com/open?id=1qwLdmeMFYiIJgVRPl4wsJPcuU82QgBVD
 
+If you found this helpful or you use our dataset, Please cite our paper:
+
+
+Chondro, P.; Haq, Q.M.; Ruan, S.-J.; Li, L.-H. Transferable Architecture for Segmenting Maxillary Sinuses on Texture-Enhanced Occipitomental View Radiographs. Mathematics 2020, 8, 768.
+
+Link to the paper is here:
+https://www.mdpi.com/2227-7390/8/5/768#cite
 
 The dataset also provide original images for Positive, Negaitve and Unknown. 
 The dataset is divided into the following folders.
@@ -21,5 +28,4 @@ NTUST.CHGH
         --> Negative  
         --> Unknown  
   <pre>
-If you found this helpful or you use our dataset, Please cite our paper:
-Chondro, P.; Haq, Q.M.; Ruan, S.-J.; Li, L.-H. Transferable Architecture for Segmenting Maxillary Sinuses on Texture-Enhanced Occipitomental View Radiographs. Mathematics 2020, 8, 768.
+
