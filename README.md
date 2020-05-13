@@ -20,6 +20,6 @@ NTUST.CHGH
         --> Positive  
         --> Negative  
         --> Unknown  
-        <pre>
+  <pre>
 If you found this helpful or you use our dataset, Please cite our paper:
 Chondro, P.; Haq, Q.M.; Ruan, S.-J.; Li, L.-H. Transferable Architecture for Segmenting Maxillary Sinuses on Texture-Enhanced Occipitomental View Radiographs. Mathematics 2020, 8, 768.
